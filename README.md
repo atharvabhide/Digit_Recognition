@@ -1,4 +1,6 @@
-# Digit_Recognition_by_KNN
+# Digit_Recognition
+
+Dataset used - MNIST
 
 Optimal value of k = 5
 
