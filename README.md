@@ -1,4 +1,4 @@
-# Digit_Recognition
+# Digit Recognition by using Classification Algorithms
 
 Dataset used - MNIST
 
